@@ -1,5 +1,4 @@
 Link para download do Git: https://git-scm.com/downloads
-
 Introdução ao Git 
 - Controle de versão
 - Trabalho em equipe
